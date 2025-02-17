@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshal LADHE</h1>
-<h3 align="center">Software Engineer based in Mumbai, India</h3>
+<h3 align="center">Software Engineer based in Mumbai 🇮🇳</h3>
 <div align="center">
   
   [![Harshal LADHE](https://img.shields.io/badge/Harshal-LADHE-blue.svg)](https://shields.io/)
