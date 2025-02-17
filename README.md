@@ -9,7 +9,6 @@
 
 </div>
 
-
 - 🔭  I’m currently working on Backend Projects for a Logistics & Supply Chain company in Mumbai.
 - 💬 Ask me about Ruby on Rails, RSpec, Vanilla JS.
 - 📫 How to reach me: `harshal.ladhe.1@gmail.com`
