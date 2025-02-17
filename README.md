@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshal</h1>
+<h1 align="center">Hi 👋, I'm Harshal LADHE</h1>
 <h3 align="center">Software Engineer based in Mumbai, India</h3>
 <div align="center">
   
