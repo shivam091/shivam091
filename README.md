@@ -3,11 +3,12 @@
 <div align="center">
   
   [![Harshal LADHE](https://img.shields.io/badge/Harshal-LADHE-blue.svg)](https://shields.io/)
-  <img src="https://komarev.com/ghpvc/?username=shivam091&label=Profile%20views&color=0e75b6&style=flat" alt="mule-me" /> 
+  <img src="https://komarev.com/ghpvc/?username=shivam091&label=Profile%20views&color=0e75b6&style=flat" alt="shivam091" /> 
   ![Followers](https://img.shields.io/github/followers/shivam091) 
   ![Stars](https://img.shields.io/github/stars/shivam091?label=Profile%20Stars&logo=Profile%20stars) 
 
 </div>
+
 
 - 🔭  I’m currently working on Backend Projects for a Logistics & Supply Chain company in Mumbai.
 - 💬 Ask me about Ruby on Rails, RSpec, Vanilla JS.
