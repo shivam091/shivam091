@@ -18,5 +18,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shivam091&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 ![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam091&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivam091&theme=light&hide_border=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam091&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivam091&theme=light&hide_border=false)
