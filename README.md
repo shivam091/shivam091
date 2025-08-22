@@ -20,3 +20,5 @@
 ![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam091&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam091&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivam091&theme=light&hide_border=false)
+![](https://github-readme-activity-graph.vercel.app/graph?username=shivam091&color=000&bg_color=fff&line=0969da&point=1a7f37&area=true&area_color=59636e)
+
